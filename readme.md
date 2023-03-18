@@ -1,0 +1,1 @@
+Within stage 3 "Baby Blockchain task" I created Account class, according to task requirements. Every account can have only 1 key_pair, because every voter will have only one verified account. update_balance() function will be updated later, after Node class implementation. Only Node class objects will have permissions for updating accounts balance.
