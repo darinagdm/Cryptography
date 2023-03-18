@@ -61,3 +61,4 @@ for kl1 in kl:
     k = decimal.Decimal(ks * decimal.Decimal(random.random()))
     find_key(k, ks, x)
     
+#This project utilizes the bignum type from the struct library (PEP 237) to handle large integer values and perform operations with them. Required Libraries: decimal, time, random
