@@ -1,0 +1,1 @@
+Within stage 4 "Baby Blockchain task" I created Transaction and Operation classes, according to task requirements, using python.
